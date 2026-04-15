@@ -1,0 +1,549 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿Cuál es el objetivo principal del estudio?",
+      "options": [
+        "Describir la violencia en menores",
+        "Determinar el papel mediador del soporte social percibido",
+        "Medir únicamente el bienestar psicológico",
+        "Analizar políticas públicas"
+      ],
+      "correctAnswer": 1,
+      "category": "objetivo",
+      "difficulty": "easy"
+    },
+    {
+      "id": 2,
+      "question": "¿Cuál es la variable mediadora en el estudio?",
+      "options": [
+        "Revictimización",
+        "Bienestar psicológico",
+        "Soporte social percibido",
+        "Edad"
+      ],
+      "correctAnswer": 2,
+      "category": "variables",
+      "difficulty": "easy"
+    },
+    {
+      "id": 3,
+      "question": "¿Qué tipo de investigación se utiliza?",
+      "options": ["Aplicada", "Experimental", "Básica", "Cualitativa"],
+      "correctAnswer": 2,
+      "category": "metodologia",
+      "difficulty": "easy"
+    },
+    {
+      "id": 4,
+      "question": "¿Cuál es el enfoque del estudio?",
+      "options": ["Cualitativo", "Mixto", "Cuantitativo", "Exploratorio"],
+      "correctAnswer": 2,
+      "category": "metodologia",
+      "difficulty": "easy"
+    },
+    {
+      "id": 5,
+      "question": "¿Qué diseño de investigación se emplea?",
+      "options": [
+        "Experimental",
+        "Cuasi experimental",
+        "No experimental",
+        "Longitudinal"
+      ],
+      "correctAnswer": 2,
+      "category": "metodologia",
+      "difficulty": "easy"
+    },
+    {
+      "id": 6,
+      "question": "¿Qué tipo de estudio temporal es?",
+      "options": [
+        "Longitudinal",
+        "Transversal",
+        "Retrospectivo",
+        "Prospectivo"
+      ],
+      "correctAnswer": 1,
+      "category": "metodologia",
+      "difficulty": "easy"
+    },
+    {
+      "id": 7,
+      "question": "¿Cuál es el alcance del estudio?",
+      "options": [
+        "Descriptivo",
+        "Correlacional",
+        "Explicativo",
+        "Exploratorio"
+      ],
+      "correctAnswer": 2,
+      "category": "metodologia",
+      "difficulty": "easy"
+    },
+    {
+      "id": 8,
+      "question": "¿Cuál es la población del estudio?",
+      "options": ["109 menores", "150 menores", "200 menores", "300 menores"],
+      "correctAnswer": 1,
+      "category": "poblacion",
+      "difficulty": "easy"
+    },
+    {
+      "id": 9,
+      "question": "¿Cuál es el tamaño de la muestra?",
+      "options": ["150", "120", "109", "200"],
+      "correctAnswer": 2,
+      "category": "muestra",
+      "difficulty": "easy"
+    },
+    {
+      "id": 10,
+      "question": "¿Qué tipo de muestreo se utiliza?",
+      "options": [
+        "Probabilístico",
+        "Aleatorio simple",
+        "No probabilístico intencional",
+        "Estratificado"
+      ],
+      "correctAnswer": 2,
+      "category": "muestreo",
+      "difficulty": "medium"
+    },
+    {
+      "id": 11,
+      "question": "¿Qué instrumento mide el soporte social percibido?",
+      "options": ["BIEPS-J", "MSPSS", "VJ-15", "PANAS"],
+      "correctAnswer": 1,
+      "category": "instrumentos",
+      "difficulty": "easy"
+    },
+    {
+      "id": 12,
+      "question": "¿Qué instrumento mide el bienestar psicológico?",
+      "options": ["MSPSS", "WHO-5", "BIEPS-J", "SWLS"],
+      "correctAnswer": 2,
+      "category": "instrumentos",
+      "difficulty": "easy"
+    },
+    {
+      "id": 13,
+      "question": "¿Qué instrumento mide la revictimización?",
+      "options": ["MSPSS", "BIEPS-J", "VJ-15", "MHC-SF"],
+      "correctAnswer": 2,
+      "category": "instrumentos",
+      "difficulty": "easy"
+    },
+    {
+      "id": 14,
+      "question": "¿Cuántos ítems tiene el MSPSS?",
+      "options": ["10", "12", "15", "20"],
+      "correctAnswer": 1,
+      "category": "instrumentos",
+      "difficulty": "easy"
+    },
+    {
+      "id": 15,
+      "question": "¿Cuántas dimensiones tiene el soporte social percibido?",
+      "options": ["2", "3", "4", "5"],
+      "correctAnswer": 1,
+      "category": "dimensiones",
+      "difficulty": "easy"
+    },
+    {
+      "id": 16,
+      "question": "¿Cuáles son las dimensiones del soporte social?",
+      "options": [
+        "Familia, escuela, trabajo",
+        "Familia, amigos, otros significativos",
+        "Amigos, profesores, comunidad",
+        "Familia, pareja, sociedad"
+      ],
+      "correctAnswer": 1,
+      "category": "dimensiones",
+      "difficulty": "easy"
+    },
+    {
+      "id": 17,
+      "question": "¿Qué mide la dimensión 'control' en bienestar psicológico?",
+      "options": [
+        "Relaciones sociales",
+        "Capacidad para enfrentar situaciones",
+        "Apoyo familiar",
+        "Satisfacción laboral"
+      ],
+      "correctAnswer": 1,
+      "category": "bienestar",
+      "difficulty": "easy"
+    },
+    {
+      "id": 18,
+      "question": "¿Qué prueba se usa para evaluar normalidad?",
+      "options": ["ANOVA", "Chi-cuadrado", "Shapiro-Wilk", "T de Student"],
+      "correctAnswer": 2,
+      "category": "analisis",
+      "difficulty": "easy"
+    },
+    {
+      "id": 19,
+      "question": "¿Qué análisis se usa para evaluar la mediación?",
+      "options": [
+        "Correlación simple",
+        "Regresión lineal",
+        "Análisis Path",
+        "Chi-cuadrado"
+      ],
+      "correctAnswer": 2,
+      "category": "analisis",
+      "difficulty": "medium"
+    },
+    {
+      "id": 20,
+      "question": "¿Qué principio ético permite decidir participar?",
+      "options": ["Beneficencia", "Autonomía", "Justicia", "Veracidad"],
+      "correctAnswer": 1,
+      "category": "etica",
+      "difficulty": "easy"
+    },
+    {
+      "id": 21,
+      "question": "¿Qué principio busca evitar daño?",
+      "options": [
+        "Autonomía",
+        "Justicia",
+        "No maleficencia",
+        "Confidencialidad"
+      ],
+      "correctAnswer": 2,
+      "category": "etica",
+      "difficulty": "easy"
+    },
+    {
+      "id": 22,
+      "question": "¿Qué teoría explica la influencia del entorno en el individuo?",
+      "options": [
+        "Teoría del apego",
+        "Teoría ecológica",
+        "Teoría cognitiva",
+        "Teoría conductual"
+      ],
+      "correctAnswer": 1,
+      "category": "teoria",
+      "difficulty": "medium"
+    },
+    {
+      "id": 23,
+      "question": "¿Qué autor propuso la teoría ecológica?",
+      "options": ["Freud", "Bronfenbrenner", "Skinner", "Piaget"],
+      "correctAnswer": 1,
+      "category": "teoria",
+      "difficulty": "easy"
+    },
+    {
+      "id": 24,
+      "question": "¿Qué necesidad psicológica pertenece a la autodeterminación?",
+      "options": ["Memoria", "Autonomía", "Lenguaje", "Percepción"],
+      "correctAnswer": 1,
+      "category": "teoria",
+      "difficulty": "easy"
+    },
+    {
+      "id": 25,
+      "question": "¿Qué es la revictimización?",
+      "options": [
+        "Primera agresión",
+        "Daño adicional durante procesos",
+        "Apoyo social",
+        "Bienestar emocional"
+      ],
+      "correctAnswer": 1,
+      "category": "definiciones",
+      "difficulty": "easy"
+    },
+    {
+      "id": 26,
+      "question": "¿Qué relación se espera entre bienestar psicológico y revictimización?",
+      "options": ["Directa", "Inversa", "Nula", "Aleatoria"],
+      "correctAnswer": 1,
+      "category": "hipotesis",
+      "difficulty": "medium"
+    },
+    {
+      "id": 27,
+      "question": "¿Qué dimensión de la revictimización evalúa el trato recibido?",
+      "options": ["Información", "Organización", "Atención", "Control"],
+      "correctAnswer": 2,
+      "category": "dimensiones",
+      "difficulty": "easy"
+    },
+    {
+      "id": 28,
+      "question": "¿Qué dimensión evalúa la claridad de los procesos legales?",
+      "options": ["Atención", "Información", "Organización", "Vínculos"],
+      "correctAnswer": 1,
+      "category": "dimensiones",
+      "difficulty": "easy"
+    },
+    {
+      "id": 29,
+      "question": "¿Qué dimensión evalúa la eficiencia del sistema judicial?",
+      "options": ["Atención", "Información", "Organización", "Proyectos"],
+      "correctAnswer": 2,
+      "category": "dimensiones",
+      "difficulty": "easy"
+    },
+    {
+      "id": 30,
+      "question": "¿Qué tipo de escala es Likert?",
+      "options": ["Nominal", "Ordinal", "Intervalo", "Razón"],
+      "correctAnswer": 1,
+      "category": "metodologia",
+      "difficulty": "medium"
+    },
+    {
+      "id": 31,
+      "question": "¿Qué mide la validez de un instrumento?",
+      "options": [
+        "Consistencia",
+        "Precisión",
+        "Lo que realmente pretende medir",
+        "Velocidad"
+      ],
+      "correctAnswer": 2,
+      "category": "metodologia",
+      "difficulty": "medium"
+    },
+    {
+      "id": 32,
+      "question": "¿Qué mide la confiabilidad?",
+      "options": [
+        "Exactitud conceptual",
+        "Consistencia de resultados",
+        "Cantidad de ítems",
+        "Tiempo de aplicación"
+      ],
+      "correctAnswer": 1,
+      "category": "metodologia",
+      "difficulty": "medium"
+    },
+    {
+      "id": 33,
+      "question": "¿Qué coeficiente se usa para confiabilidad?",
+      "options": ["Pearson", "Spearman", "Alfa de Cronbach", "Chi-cuadrado"],
+      "correctAnswer": 2,
+      "category": "analisis",
+      "difficulty": "easy"
+    },
+    {
+      "id": 34,
+      "question": "¿Qué significa p < .05?",
+      "options": [
+        "Error alto",
+        "Resultado no significativo",
+        "Resultado significativo",
+        "Resultado inválido"
+      ],
+      "correctAnswer": 2,
+      "category": "analisis",
+      "difficulty": "medium"
+    },
+    {
+      "id": 35,
+      "question": "¿Qué tipo de datos usa el enfoque cuantitativo?",
+      "options": ["Narrativos", "Descriptivos", "Numéricos", "Visuales"],
+      "correctAnswer": 2,
+      "category": "metodologia",
+      "difficulty": "easy"
+    },
+    {
+      "id": 36,
+      "question": "¿Qué técnica de recolección se utiliza?",
+      "options": ["Entrevista", "Observación", "Encuesta", "Experimento"],
+      "correctAnswer": 2,
+      "category": "metodologia",
+      "difficulty": "easy"
+    },
+    {
+      "id": 37,
+      "question": "¿Qué tipo de análisis mide relación entre variables?",
+      "options": [
+        "Descriptivo",
+        "Correlacional",
+        "Experimental",
+        "Exploratorio"
+      ],
+      "correctAnswer": 1,
+      "category": "analisis",
+      "difficulty": "easy"
+    },
+    {
+      "id": 38,
+      "question": "¿Qué es una variable mediadora?",
+      "options": [
+        "Variable independiente",
+        "Variable que explica la relación entre otras",
+        "Variable dependiente",
+        "Variable constante"
+      ],
+      "correctAnswer": 1,
+      "category": "variables",
+      "difficulty": "medium"
+    },
+    {
+      "id": 39,
+      "question": "¿Qué es la autonomía según la autodeterminación?",
+      "options": [
+        "Capacidad física",
+        "Libertad para tomar decisiones",
+        "Relaciones sociales",
+        "Control emocional"
+      ],
+      "correctAnswer": 1,
+      "category": "teoria",
+      "difficulty": "easy"
+    },
+    {
+      "id": 40,
+      "question": "¿Qué es la competencia psicológica?",
+      "options": [
+        "Relaciones sociales",
+        "Percepción de habilidades",
+        "Control externo",
+        "Dependencia emocional"
+      ],
+      "correctAnswer": 1,
+      "category": "teoria",
+      "difficulty": "easy"
+    },
+    {
+      "id": 41,
+      "question": "¿Qué implica el macrosistema?",
+      "options": [
+        "Familia",
+        "Relaciones cercanas",
+        "Cultura y creencias",
+        "Escuela"
+      ],
+      "correctAnswer": 2,
+      "category": "teoria",
+      "difficulty": "medium"
+    },
+    {
+      "id": 42,
+      "question": "¿Qué implica el microsistema?",
+      "options": [
+        "Entorno cultural",
+        "Relaciones directas",
+        "Instituciones",
+        "Medios de comunicación"
+      ],
+      "correctAnswer": 1,
+      "category": "teoria",
+      "difficulty": "medium"
+    },
+    {
+      "id": 43,
+      "question": "¿Qué implica el exosistema?",
+      "options": [
+        "Relaciones personales",
+        "Entornos indirectos",
+        "Familia nuclear",
+        "Amigos"
+      ],
+      "correctAnswer": 1,
+      "category": "teoria",
+      "difficulty": "medium"
+    },
+    {
+      "id": 44,
+      "question": "¿Qué es el consentimiento informado?",
+      "options": [
+        "Un permiso legal obligatorio",
+        "Aceptación libre y voluntaria",
+        "Una encuesta",
+        "Un contrato judicial"
+      ],
+      "correctAnswer": 1,
+      "category": "etica",
+      "difficulty": "easy"
+    },
+    {
+      "id": 45,
+      "question": "¿Qué protege la confidencialidad?",
+      "options": [
+        "Los resultados",
+        "La identidad del participante",
+        "El investigador",
+        "El instrumento"
+      ],
+      "correctAnswer": 1,
+      "category": "etica",
+      "difficulty": "easy"
+    },
+    {
+      "id": 46,
+      "question": "¿Qué es una hipótesis?",
+      "options": [
+        "Un resultado",
+        "Una suposición comprobable",
+        "Un dato",
+        "Una conclusión"
+      ],
+      "correctAnswer": 1,
+      "category": "metodologia",
+      "difficulty": "easy"
+    },
+    {
+      "id": 47,
+      "question": "¿Qué es una variable dependiente?",
+      "options": [
+        "La que se manipula",
+        "La que se mide como resultado",
+        "La que controla",
+        "La que no cambia"
+      ],
+      "correctAnswer": 1,
+      "category": "variables",
+      "difficulty": "medium"
+    },
+    {
+      "id": 48,
+      "question": "¿Qué caracteriza a un estudio no experimental?",
+      "options": [
+        "Manipulación de variables",
+        "Control total",
+        "Observación sin intervención",
+        "Uso de laboratorio"
+      ],
+      "correctAnswer": 2,
+      "category": "metodologia",
+      "difficulty": "easy"
+    },
+    {
+      "id": 49,
+      "question": "¿Qué caracteriza a un estudio transversal?",
+      "options": [
+        "Múltiples mediciones",
+        "Seguimiento en el tiempo",
+        "Una sola medición",
+        "Comparación histórica"
+      ],
+      "correctAnswer": 2,
+      "category": "metodologia",
+      "difficulty": "easy"
+    },
+    {
+      "id": 50,
+      "question": "¿Qué busca el análisis de frecuencias?",
+      "options": [
+        "Relaciones",
+        "Distribución de datos",
+        "Causalidad",
+        "Validez"
+      ],
+      "correctAnswer": 1,
+      "category": "analisis",
+      "difficulty": "easy"
+    }
+  ]
+}

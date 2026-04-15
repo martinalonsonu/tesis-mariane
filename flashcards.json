@@ -1,0 +1,746 @@
+{
+  "flashcards": [
+    {
+      "id": 1,
+      "category": "tema_general",
+      "question": "¿Cuál es el tema central de la investigación?",
+      "answer": "El papel mediador del soporte social percibido en la relación entre el bienestar psicológico y la revictimización en menores atendidos en la Fiscalía de Huaura.",
+      "difficulty": "easy"
+    },
+    {
+      "id": 2,
+      "category": "problema",
+      "question": "¿Cuál es la pregunta de investigación?",
+      "answer": "¿De qué manera el soporte social percibido media la relación entre el bienestar psicológico y la revictimización en menores atendidos en la Fiscalía de Huaura?",
+      "difficulty": "easy"
+    },
+    {
+      "id": 3,
+      "category": "objetivo",
+      "question": "¿Cuál es el objetivo principal del estudio?",
+      "answer": "Determinar el papel mediador del soporte social percibido en la relación entre el bienestar psicológico y la revictimización.",
+      "difficulty": "easy"
+    },
+    {
+      "id": 4,
+      "category": "variables",
+      "question": "¿Cuáles son las variables principales del estudio?",
+      "answer": "Soporte social percibido, bienestar psicológico y revictimización.",
+      "difficulty": "easy"
+    },
+    {
+      "id": 5,
+      "category": "definiciones",
+      "question": "¿Qué es el soporte social percibido?",
+      "answer": "Es la percepción que tiene un individuo sobre la disponibilidad de apoyo de su entorno.",
+      "difficulty": "easy"
+    },
+    {
+      "id": 6,
+      "category": "definiciones",
+      "question": "¿Qué es el bienestar psicológico?",
+      "answer": "Es la evaluación subjetiva que hace un individuo sobre su satisfacción personal y su funcionamiento emocional.",
+      "difficulty": "easy"
+    },
+    {
+      "id": 7,
+      "category": "definiciones",
+      "question": "¿Qué es la revictimización?",
+      "answer": "Es el daño adicional que sufre una víctima durante o después del proceso judicial.",
+      "difficulty": "easy"
+    },
+    {
+      "id": 8,
+      "category": "teoria",
+      "question": "¿Qué plantea la teoría ecológica de Bronfenbrenner?",
+      "answer": "Que el comportamiento humano está influido por múltiples sistemas (micro, meso, exo y macro).",
+      "difficulty": "medium"
+    },
+    {
+      "id": 9,
+      "category": "teoria",
+      "question": "¿Cuáles son los sistemas de la teoría ecológica?",
+      "answer": "Microsistema, mesosistema, exosistema y macrosistema.",
+      "difficulty": "easy"
+    },
+    {
+      "id": 10,
+      "category": "teoria",
+      "question": "¿Qué propone la teoría del apoyo social percibido?",
+      "answer": "Que la percepción de apoyo influye positivamente en el bienestar psicológico.",
+      "difficulty": "medium"
+    },
+    {
+      "id": 11,
+      "category": "teoria",
+      "question": "¿Qué es el modelo de amortiguación del apoyo social?",
+      "answer": "Explica que el apoyo social ayuda a enfrentar situaciones estresantes.",
+      "difficulty": "medium"
+    },
+    {
+      "id": 12,
+      "category": "teoria",
+      "question": "¿Qué plantea la teoría de la autodeterminación?",
+      "answer": "Que el bienestar depende de la satisfacción de necesidades psicológicas básicas.",
+      "difficulty": "medium"
+    },
+    {
+      "id": 13,
+      "category": "teoria",
+      "question": "¿Cuáles son las necesidades básicas según la autodeterminación?",
+      "answer": "Autonomía, competencia y relaciones.",
+      "difficulty": "easy"
+    },
+    {
+      "id": 14,
+      "category": "teoria",
+      "question": "¿Qué plantea la teoría del mundo justo?",
+      "answer": "Que las personas creen que cada quien recibe lo que merece.",
+      "difficulty": "medium"
+    },
+    {
+      "id": 15,
+      "category": "dimensiones",
+      "question": "¿Cuáles son las dimensiones del soporte social percibido?",
+      "answer": "Familia, amigos y otros significativos.",
+      "difficulty": "easy"
+    },
+    {
+      "id": 16,
+      "category": "dimensiones",
+      "question": "¿Cuáles son las dimensiones del bienestar psicológico?",
+      "answer": "Control, vínculos, proyectos y aceptación.",
+      "difficulty": "easy"
+    },
+    {
+      "id": 17,
+      "category": "dimensiones",
+      "question": "¿Cuáles son las dimensiones de la revictimización?",
+      "answer": "Atención, información y organización.",
+      "difficulty": "easy"
+    },
+    {
+      "id": 18,
+      "category": "metodologia",
+      "question": "¿Qué tipo de investigación es el estudio?",
+      "answer": "Investigación básica.",
+      "difficulty": "easy"
+    },
+    {
+      "id": 19,
+      "category": "metodologia",
+      "question": "¿Cuál es el enfoque de la investigación?",
+      "answer": "Cuantitativo.",
+      "difficulty": "easy"
+    },
+    {
+      "id": 20,
+      "category": "metodologia",
+      "question": "¿Cuál es el diseño de la investigación?",
+      "answer": "No experimental.",
+      "difficulty": "easy"
+    },
+    {
+      "id": 21,
+      "category": "metodologia",
+      "question": "¿Qué tipo de estudio temporal se utiliza?",
+      "answer": "Transversal.",
+      "difficulty": "easy"
+    },
+    {
+      "id": 22,
+      "category": "metodologia",
+      "question": "¿Cuál es el alcance del estudio?",
+      "answer": "Explicativo.",
+      "difficulty": "easy"
+    },
+    {
+      "id": 23,
+      "category": "poblacion",
+      "question": "¿Cuál es la población del estudio?",
+      "answer": "150 menores atendidos en la Fiscalía de Huaura.",
+      "difficulty": "easy"
+    },
+    {
+      "id": 24,
+      "category": "muestra",
+      "question": "¿Cuál es el tamaño de la muestra?",
+      "answer": "109 menores.",
+      "difficulty": "easy"
+    },
+    {
+      "id": 25,
+      "category": "muestreo",
+      "question": "¿Qué tipo de muestreo se utiliza?",
+      "answer": "No probabilístico intencional.",
+      "difficulty": "medium"
+    },
+    {
+      "id": 26,
+      "category": "instrumentos",
+      "question": "¿Qué instrumento mide el soporte social percibido?",
+      "answer": "MSPSS (Multidimensional Scale of Perceived Social Support).",
+      "difficulty": "medium"
+    },
+    {
+      "id": 27,
+      "category": "instrumentos",
+      "question": "¿Qué instrumento mide el bienestar psicológico?",
+      "answer": "BIEPS-J.",
+      "difficulty": "medium"
+    },
+    {
+      "id": 28,
+      "category": "instrumentos",
+      "question": "¿Qué instrumento mide la revictimización?",
+      "answer": "Escala de Violencia Judicial (VJ-15).",
+      "difficulty": "medium"
+    },
+    {
+      "id": 29,
+      "category": "analisis",
+      "question": "¿Qué prueba se usa para la normalidad?",
+      "answer": "Shapiro-Wilk.",
+      "difficulty": "medium"
+    },
+    {
+      "id": 30,
+      "category": "analisis",
+      "question": "¿Qué análisis se usa para evaluar el modelo mediador?",
+      "answer": "Análisis Path.",
+      "difficulty": "hard"
+    },
+    {
+      "id": 31,
+      "category": "hipotesis",
+      "question": "¿Cuál es la hipótesis principal?",
+      "answer": "El soporte social percibido influye significativamente en la relación entre bienestar psicológico y revictimización.",
+      "difficulty": "medium"
+    },
+    {
+      "id": 32,
+      "category": "etica",
+      "question": "¿Qué principio ético permite decidir participar?",
+      "answer": "Autonomía.",
+      "difficulty": "easy"
+    },
+    {
+      "id": 33,
+      "category": "etica",
+      "question": "¿Qué principio busca evitar daño al participante?",
+      "answer": "No maleficencia.",
+      "difficulty": "easy"
+    },
+    {
+      "id": 34,
+      "category": "contexto",
+      "question": "¿Qué organismo internacional resalta la importancia de evitar la revictimización en menores?",
+      "answer": "UNICEF.",
+      "difficulty": "easy"
+    },
+    {
+      "id": 35,
+      "category": "contexto",
+      "question": "¿Qué objetivo de desarrollo sostenible se relaciona con la investigación?",
+      "answer": "ODS 16: Paz, justicia e instituciones sólidas.",
+      "difficulty": "medium"
+    },
+    {
+      "id": 36,
+      "category": "contexto",
+      "question": "¿Qué porcentaje aproximado de niños y niñas ha sufrido abuso sexual según la CDC?",
+      "answer": "25% de niñas y 20% de niños.",
+      "difficulty": "medium"
+    },
+    {
+      "id": 37,
+      "category": "contexto",
+      "question": "¿Qué institución atiende a las víctimas en Huaura?",
+      "answer": "UDAVIT (Unidad Distrital de Protección y Asistencia a Víctimas y Testigos).",
+      "difficulty": "medium"
+    },
+    {
+      "id": 38,
+      "category": "teoria",
+      "question": "¿Qué autor desarrolló la teoría del apoyo social percibido?",
+      "answer": "Cohen y Wills.",
+      "difficulty": "medium"
+    },
+    {
+      "id": 39,
+      "category": "teoria",
+      "question": "¿Qué diferencia existe entre apoyo percibido y apoyo recibido?",
+      "answer": "El percibido es la creencia de contar con apoyo; el recibido es el apoyo real brindado.",
+      "difficulty": "medium"
+    },
+    {
+      "id": 40,
+      "category": "teoria",
+      "question": "¿Qué autor propuso la teoría del mundo justo?",
+      "answer": "Lerner.",
+      "difficulty": "medium"
+    },
+    {
+      "id": 41,
+      "category": "teoria",
+      "question": "¿Qué es la victimidad según Mendelsohn?",
+      "answer": "Conjunto de factores que predisponen a una persona a ser víctima.",
+      "difficulty": "hard"
+    },
+    {
+      "id": 42,
+      "category": "teoria",
+      "question": "¿Qué sesgo implica culpar a la víctima por lo sucedido?",
+      "answer": "Sesgo de culpabilización de la víctima.",
+      "difficulty": "medium"
+    },
+    {
+      "id": 43,
+      "category": "teoria",
+      "question": "¿Qué es el efecto confirmatorio en la teoría del mundo justo?",
+      "answer": "Buscar información que confirme creencias previas e ignorar lo contrario.",
+      "difficulty": "hard"
+    },
+    {
+      "id": 44,
+      "category": "dimensiones",
+      "question": "¿Qué dimensión del bienestar psicológico implica aceptar fortalezas y debilidades?",
+      "answer": "Aceptación.",
+      "difficulty": "easy"
+    },
+    {
+      "id": 45,
+      "category": "dimensiones",
+      "question": "¿Qué dimensión del bienestar se relaciona con metas de vida?",
+      "answer": "Proyectos.",
+      "difficulty": "easy"
+    },
+    {
+      "id": 46,
+      "category": "dimensiones",
+      "question": "¿Qué dimensión del bienestar implica manejo de situaciones?",
+      "answer": "Control.",
+      "difficulty": "easy"
+    },
+    {
+      "id": 47,
+      "category": "dimensiones",
+      "question": "¿Qué dimensión de revictimización evalúa el trato recibido?",
+      "answer": "Atención.",
+      "difficulty": "easy"
+    },
+    {
+      "id": 48,
+      "category": "dimensiones",
+      "question": "¿Qué dimensión de revictimización evalúa claridad de procesos?",
+      "answer": "Información.",
+      "difficulty": "easy"
+    },
+    {
+      "id": 49,
+      "category": "dimensiones",
+      "question": "¿Qué dimensión de revictimización evalúa infraestructura y tiempos?",
+      "answer": "Organización.",
+      "difficulty": "easy"
+    },
+    {
+      "id": 50,
+      "category": "metodologia",
+      "question": "¿Por qué el estudio es no experimental?",
+      "answer": "Porque no se manipulan variables, solo se observan.",
+      "difficulty": "easy"
+    },
+    {
+      "id": 51,
+      "category": "metodologia",
+      "question": "¿Qué caracteriza a un estudio transversal?",
+      "answer": "Se mide en un solo momento del tiempo.",
+      "difficulty": "easy"
+    },
+    {
+      "id": 52,
+      "category": "metodologia",
+      "question": "¿Qué significa que el estudio sea explicativo?",
+      "answer": "Busca explicar relaciones causales entre variables.",
+      "difficulty": "medium"
+    },
+    {
+      "id": 53,
+      "category": "metodologia",
+      "question": "¿Qué técnica se usa para recolectar datos?",
+      "answer": "Encuesta.",
+      "difficulty": "easy"
+    },
+    {
+      "id": 54,
+      "category": "instrumentos",
+      "question": "¿Cuántos ítems tiene el MSPSS?",
+      "answer": "12 ítems.",
+      "difficulty": "medium"
+    },
+    {
+      "id": 55,
+      "category": "instrumentos",
+      "question": "¿Cuántas dimensiones tiene el MSPSS?",
+      "answer": "3 dimensiones.",
+      "difficulty": "easy"
+    },
+    {
+      "id": 56,
+      "category": "instrumentos",
+      "question": "¿Cuántos ítems tiene el BIEPS-J?",
+      "answer": "13 ítems.",
+      "difficulty": "medium"
+    },
+    {
+      "id": 57,
+      "category": "instrumentos",
+      "question": "¿Cuántos ítems tiene la escala VJ-15?",
+      "answer": "15 ítems.",
+      "difficulty": "easy"
+    },
+    {
+      "id": 58,
+      "category": "instrumentos",
+      "question": "¿Qué tipo de escala usan los instrumentos?",
+      "answer": "Escala Likert.",
+      "difficulty": "easy"
+    },
+    {
+      "id": 59,
+      "category": "analisis",
+      "question": "¿Qué se evalúa con el alfa de Cronbach?",
+      "answer": "La confiabilidad del instrumento.",
+      "difficulty": "medium"
+    },
+    {
+      "id": 60,
+      "category": "analisis",
+      "question": "¿Qué indica una correlación positiva?",
+      "answer": "Que ambas variables aumentan juntas.",
+      "difficulty": "easy"
+    },
+    {
+      "id": 61,
+      "category": "analisis",
+      "question": "¿Qué indica una correlación negativa?",
+      "answer": "Que una variable aumenta mientras la otra disminuye.",
+      "difficulty": "easy"
+    },
+    {
+      "id": 62,
+      "category": "analisis",
+      "question": "¿Cuándo se usa Pearson?",
+      "answer": "Cuando los datos son normales.",
+      "difficulty": "medium"
+    },
+    {
+      "id": 63,
+      "category": "analisis",
+      "question": "¿Cuándo se usa Spearman?",
+      "answer": "Cuando los datos no son normales.",
+      "difficulty": "medium"
+    },
+    {
+      "id": 64,
+      "category": "analisis",
+      "question": "¿Qué mide el análisis Path?",
+      "answer": "Relaciones directas e indirectas entre variables.",
+      "difficulty": "hard"
+    },
+    {
+      "id": 65,
+      "category": "hipotesis",
+      "question": "¿Qué tipo de relación se espera entre bienestar y revictimización?",
+      "answer": "Relación inversa.",
+      "difficulty": "medium"
+    },
+    {
+      "id": 66,
+      "category": "hipotesis",
+      "question": "¿Qué tipo de relación se espera entre apoyo social y bienestar?",
+      "answer": "Relación positiva.",
+      "difficulty": "medium"
+    },
+    {
+      "id": 67,
+      "category": "etica",
+      "question": "¿Qué documento garantiza el consentimiento de los tutores?",
+      "answer": "Consentimiento informado.",
+      "difficulty": "easy"
+    },
+    {
+      "id": 68,
+      "category": "etica",
+      "question": "¿Qué protege el anonimato de los participantes?",
+      "answer": "Confidencialidad.",
+      "difficulty": "easy"
+    },
+    {
+      "id": 69,
+      "category": "etica",
+      "question": "¿Por qué es importante el trato empático en la investigación?",
+      "answer": "Para evitar daño psicológico en los participantes.",
+      "difficulty": "easy"
+    },
+    {
+      "id": 70,
+      "category": "contexto",
+      "question": "¿Qué organismo internacional resalta la importancia de evitar la revictimización?",
+      "answer": "UNICEF.",
+      "difficulty": "easy"
+    },
+    {
+      "id": 71,
+      "category": "contexto",
+      "question": "¿Qué porcentaje de agresores suelen ser personas cercanas a la víctima?",
+      "answer": "Aproximadamente el 90%.",
+      "difficulty": "medium"
+    },
+    {
+      "id": 72,
+      "category": "contexto",
+      "question": "¿Qué institución atiende a las víctimas en Huaura?",
+      "answer": "UDAVIT (Unidad Distrital de Protección y Asistencia a Víctimas y Testigos).",
+      "difficulty": "medium"
+    },
+    {
+      "id": 73,
+      "category": "justificacion",
+      "question": "¿Cuál es la justificación social del estudio?",
+      "answer": "Concientizar sobre la importancia del apoyo social en el bienestar de menores víctimas.",
+      "difficulty": "medium"
+    },
+    {
+      "id": 74,
+      "category": "justificacion",
+      "question": "¿Cuál es la justificación práctica del estudio?",
+      "answer": "Promover mejoras en el trato institucional y redes de apoyo.",
+      "difficulty": "medium"
+    },
+    {
+      "id": 75,
+      "category": "justificacion",
+      "question": "¿Cuál es la justificación metodológica del estudio?",
+      "answer": "Uso de instrumentos válidos y confiables para medir las variables.",
+      "difficulty": "medium"
+    },
+    {
+      "id": 76,
+      "category": "variables",
+      "question": "¿Qué tipo de variable es el soporte social percibido en el modelo?",
+      "answer": "Variable mediadora.",
+      "difficulty": "medium"
+    },
+    {
+      "id": 77,
+      "category": "variables",
+      "question": "¿Qué relación se espera entre bienestar psicológico y revictimización?",
+      "answer": "Relación inversa.",
+      "difficulty": "medium"
+    },
+    {
+      "id": 78,
+      "category": "teoria",
+      "question": "¿Qué autor propuso la teoría del apoyo social percibido?",
+      "answer": "Cohen y Wills.",
+      "difficulty": "medium"
+    },
+    {
+      "id": 79,
+      "category": "teoria",
+      "question": "¿Qué autor propuso la teoría de la victimidad?",
+      "answer": "Mendelsohn.",
+      "difficulty": "medium"
+    },
+    {
+      "id": 80,
+      "category": "teoria",
+      "question": "¿Qué autor propuso la teoría del mundo justo?",
+      "answer": "Lerner.",
+      "difficulty": "medium"
+    },
+    {
+      "id": 81,
+      "category": "teoria",
+      "question": "¿Qué implica el sesgo de culpabilización de la víctima?",
+      "answer": "Responsabilizar a la víctima por lo ocurrido.",
+      "difficulty": "medium"
+    },
+    {
+      "id": 82,
+      "category": "teoria",
+      "question": "¿Qué es la victimidad?",
+      "answer": "Conjunto de factores que predisponen a una persona a ser víctima.",
+      "difficulty": "medium"
+    },
+    {
+      "id": 83,
+      "category": "teoria",
+      "question": "¿Qué es el foco de responsabilidad en victimología?",
+      "answer": "La influencia del comportamiento de la víctima en el delito.",
+      "difficulty": "hard"
+    },
+    {
+      "id": 84,
+      "category": "dimensiones",
+      "question": "¿Qué evalúa la dimensión 'familia' en MSPSS?",
+      "answer": "El apoyo percibido de familiares.",
+      "difficulty": "easy"
+    },
+    {
+      "id": 85,
+      "category": "dimensiones",
+      "question": "¿Qué evalúa la dimensión 'amigos' en MSPSS?",
+      "answer": "El apoyo percibido de amistades.",
+      "difficulty": "easy"
+    },
+    {
+      "id": 86,
+      "category": "dimensiones",
+      "question": "¿Qué evalúa la dimensión 'otros significativos'?",
+      "answer": "El apoyo de personas importantes fuera de familia y amigos.",
+      "difficulty": "easy"
+    },
+    {
+      "id": 87,
+      "category": "instrumentos",
+      "question": "¿Cuántos ítems tiene el MSPSS?",
+      "answer": "12 ítems.",
+      "difficulty": "easy"
+    },
+    {
+      "id": 88,
+      "category": "instrumentos",
+      "question": "¿Cuántos ítems tiene el BIEPS-J?",
+      "answer": "13 ítems.",
+      "difficulty": "easy"
+    },
+    {
+      "id": 89,
+      "category": "instrumentos",
+      "question": "¿Cuántos ítems tiene la escala VJ-15?",
+      "answer": "15 ítems.",
+      "difficulty": "easy"
+    },
+    {
+      "id": 90,
+      "category": "instrumentos",
+      "question": "¿Qué tipo de escala usa el MSPSS?",
+      "answer": "Likert de 1 a 7.",
+      "difficulty": "easy"
+    },
+    {
+      "id": 91,
+      "category": "instrumentos",
+      "question": "¿Qué tipo de escala usa el BIEPS-J?",
+      "answer": "Likert de 1 a 3.",
+      "difficulty": "easy"
+    },
+    {
+      "id": 92,
+      "category": "instrumentos",
+      "question": "¿Qué tipo de escala usa la VJ-15?",
+      "answer": "Likert de 1 (Sí) a 3 (No).",
+      "difficulty": "easy"
+    },
+    {
+      "id": 93,
+      "category": "analisis",
+      "question": "¿Qué programa se usará para el análisis estadístico?",
+      "answer": "JAMOVI.",
+      "difficulty": "easy"
+    },
+    {
+      "id": 94,
+      "category": "analisis",
+      "question": "¿Para qué sirve la prueba Shapiro-Wilk?",
+      "answer": "Para evaluar la normalidad de los datos.",
+      "difficulty": "easy"
+    },
+    {
+      "id": 95,
+      "category": "analisis",
+      "question": "¿Qué estadístico se usa si los datos son normales?",
+      "answer": "r de Pearson.",
+      "difficulty": "medium"
+    },
+    {
+      "id": 96,
+      "category": "analisis",
+      "question": "¿Qué estadístico se usa si los datos no son normales?",
+      "answer": "Rho de Spearman.",
+      "difficulty": "medium"
+    },
+    {
+      "id": 97,
+      "category": "poblacion",
+      "question": "¿Cuál es la unidad de análisis?",
+      "answer": "Menores atendidos en la Fiscalía de Huaura.",
+      "difficulty": "easy"
+    },
+    {
+      "id": 98,
+      "category": "criterios",
+      "question": "Menciona un criterio de inclusión.",
+      "answer": "Ser menor de 18 años.",
+      "difficulty": "easy"
+    },
+    {
+      "id": 99,
+      "category": "criterios",
+      "question": "Menciona un criterio de exclusión.",
+      "answer": "Tener 18 años o más.",
+      "difficulty": "easy"
+    },
+    {
+      "id": 100,
+      "category": "etica",
+      "question": "¿Qué garantiza el anonimato de los participantes?",
+      "answer": "El principio de confidencialidad.",
+      "difficulty": "easy"
+    },
+    {
+      "id": 101,
+      "category": "etica",
+      "question": "¿Qué documento se utiliza para el consentimiento?",
+      "answer": "Consentimiento informado.",
+      "difficulty": "easy"
+    },
+    {
+      "id": 102,
+      "category": "revictimizacion",
+      "question": "¿Cuál es una forma común de revictimización?",
+      "answer": "Repetir el relato del evento traumático.",
+      "difficulty": "easy"
+    },
+    {
+      "id": 103,
+      "category": "revictimizacion",
+      "question": "¿Qué implica la falta de sensibilidad institucional?",
+      "answer": "Trato inadecuado o poco empático hacia la víctima.",
+      "difficulty": "easy"
+    },
+    {
+      "id": 104,
+      "category": "revictimizacion",
+      "question": "¿Qué factor organizacional puede generar revictimización?",
+      "answer": "Procesos lentos o mala infraestructura.",
+      "difficulty": "medium"
+    },
+    {
+      "id": 105,
+      "category": "bienestar",
+      "question": "¿Qué evalúa la dimensión 'control'?",
+      "answer": "Capacidad para enfrentar situaciones.",
+      "difficulty": "easy"
+    },
+    {
+      "id": 106,
+      "category": "bienestar",
+      "question": "¿Qué evalúa la dimensión 'proyectos'?",
+      "answer": "Sentido de vida y metas personales.",
+      "difficulty": "easy"
+    }
+  ]
+}
